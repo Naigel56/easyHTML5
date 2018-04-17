@@ -1,2 +1,24 @@
 # easyHTML5
-legacy project to adopt a MVC approach in OO web application development
+
+easyHTML5 is a legacy framework developed to simplify the adoption of a MVC-like pattern in OO web application development.
+
+### History
+
+It all started back in 2012 while writing my master's thesis at [Politecnico di Milano](https://www.polimi.it/). It was clear that web applications were going to be more and more widespread, thus replacing a number of desktop applications. The idea of this project was to demonstrate the possibility of using an easy pure Javascript representation of model objects, delegating to a library the responsibility to handle both data consistency and data visualization.
+
+### Today
+
+Nowadays we see a lots of client-side frameworks able to maintain data consistency, like Angular and React. They let developers implement the View in a flexible way, something that easyHTML5 allows only partially. This could be considered a severe limitation by today's standards.
+
+### Developments
+
+Back in 2012, it made sense to try to expand this library. The idea was to make it more flexible by taking an approach similar to [Knockout](http://knockoutjs.com/)'s data binding. After this step, we wanted to add a comprehensive documentation and a rich sets of examples, hoping to involve the opensource community and obtain some feedback.
+
+Here you can find the last stable version of the client-side easyHTML5.js library (0.6.1).
+
+### Resources
+
+Examples and documentation are not available on the original sources anymore. I will port and translate in English the existing examples to [Jsfiddle](https://jsfiddle.net/), and the documentation to [Read the Docs](https://readthedocs.org/). Meanwhile a basic docs is available in the "docs" folder. Here are other references:
+
+- [Thesis paper (in italian)](https://www.politesi.polimi.it/handle/10589/67181)
+- Example website (TBA)
