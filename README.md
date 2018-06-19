@@ -4,15 +4,15 @@ easyHTML5 is a legacy framework developed to simplify the adoption of a MVC-like
 
 ### History
 
-It all started back in 2012 while writing [my master's thesis](https://www.politesi.polimi.it/handle/10589/67181) at [Politecnico di Milano](https://www.polimi.it/). It was clear that web applications were going to be more and more widespread, thus replacing a number of desktop applications. The idea of this project was to demonstrate the possibility of using an easy pure Javascript representation of model objects, delegating to a library the responsibility to handle both data consistency and data visualization.
+It all started back in 2012 while I was writing [my master's thesis](https://www.politesi.polimi.it/handle/10589/67181) at [Politecnico di Milano](https://www.polimi.it/). It was clear that web applications were going to be more and more widespread, thus replacing a number of desktop applications. The idea of this project was to demonstrate the possibility of using an easy pure Javascript representation of model objects, delegating to a library the responsibility to handle both data consistency and data visualization.
 
 ### Today
 
-Nowadays we see a lots of client-side frameworks able to maintain data consistency, like Angular and React. They let developers implement the View in a flexible way, something that easyHTML5 allows only partially. This could be considered a severe limitation by today's standards.
+Nowadays we see lots of client-side frameworks able to maintain data consistency, like Angular and React. They let developers implement the View in a flexible way, something that easyHTML5 allows only partially. This could be considered a severe limitation by today's standards.
 
 ### Developments
 
-Back in 2012, it made sense to try to expand this library. The idea was to make it more flexible by taking an approach similar to [Knockout](http://knockoutjs.com/)'s data binding. After this step, we wanted to add a comprehensive documentation and a rich sets of examples, hoping to involve the opensource community and obtain some feedback. 
+Back in 2012, it made sense to try to expand this library. The idea was to make it more flexible by taking an approach similar to [Knockout](http://knockoutjs.com/)'s data binding. After this step, we wanted to add a comprehensive documentation and a rich set of examples, hoping to involve the open source community and obtain some feedback. 
 
 ### Resources
 
